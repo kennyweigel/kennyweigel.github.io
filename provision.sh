@@ -4,7 +4,7 @@ echo "Start Provision"
 
 apt-get update
 
-apt-get install build-essential -y
+apt-get install ruby ruby-dev make gcc nodejs
 
 gem install jekyll
 

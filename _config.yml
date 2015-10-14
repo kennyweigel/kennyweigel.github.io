@@ -1,14 +1,12 @@
 # Site settings
 title: Kenny Weigel
-email: your-email@domain.com
+email: kennyweigel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Software Engineer currently building pieces of the internet from Portsmouth, NH.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kennyweigel.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: kennyweigel
+github_username:  kennyweigel
 host: 0.0.0.0
 # Build settings
 markdown: kramdown

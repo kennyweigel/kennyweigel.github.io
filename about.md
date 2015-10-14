@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Kenny is an electrical engineer turned full stack developer after discovering the joys that come from bringing ideas to life with code rather than a soldering iron. He is a generalist working on a variety of projects regardless of technology stack or platform.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+His day job is spent building great things at <a href="http://theatomgroup.com/" target="_blank">The Atom Group</a> out of Portsmouth, NH. After hours he can be found hacking away on his own projects typically focusing on Javascript, IoT, or whatever else is currently piquing his interest. When he's not in front of a computer screen he can usually be found surfing, snowboarding, or spending time with his wife in their home of York Beach, Maine.

@@ -1,0 +1,13 @@
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+footer i {
+  color: #000;
+}
+
+footer a {
+  display: inline-block;
+  padding: 10px;
+}
